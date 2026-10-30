@@ -9,4 +9,4 @@ A DID (Direct Inward Dialing) number is a standard public phone number that conn
 DIDs are very inexpensive for lab setups. You can lease a local area code number from SIP trunk providers (like Callcentric, VoIP.ms, or Telnyx) for around $1.00 to $5.00/month, then add a few dollars of pay-per-minute credit to cover incoming and outgoing traffic. I personally, for this tutorial, will be utilizing Callcentric, specifically their pay-as-you-go plan.
 
 # My Enviroment/Prerquisties
-**PBX Host** I will be using Oracle VirtualBox, running FREEPBX 
+**PBX Host** I will be using Oracle VirtualBox, running FreePBX 17 (Based on Debian 12) and the recommended specs for FreePBX.** 
